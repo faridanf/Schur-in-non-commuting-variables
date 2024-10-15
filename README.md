@@ -1,3 +1,3 @@
-# Schur-in-non-commuting-variables
+# Schur functions in noncommuting variables
 
-\href{https://www.symmetricfunctions.com/ncSchur.htm}{https://www.symmetricfunctions.com/ncSchur.htm}
+https://www.symmetricfunctions.com/ncSchur.htm}
